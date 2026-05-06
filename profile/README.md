@@ -51,4 +51,4 @@ We open-source utilities we build for our own stack. MIT-licensed, zero dependen
 
 Built by [42rows S.r.l.](https://42rows.com) in Rome, Italy.
 
-[42rows.com](https://42rows.com) · [hello@42rows.com](mailto:support@42rows.com)
+[42rows.com](https://42rows.com) · [support@42rows.com](mailto:support@42rows.com)
